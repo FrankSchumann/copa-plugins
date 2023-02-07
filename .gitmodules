@@ -1,9 +1,6 @@
 [submodule "runtime"]
 	path = runtime
 	url = git@github.com:FrankSchumann/runtime.git
-[submodule "codesys"]
-	path = codesys
-	url = git@github.com:FrankSchumann/codesys.git
 [submodule "ecostruxure"]
 	path = ecostruxure
 	url = git@github.com:FrankSchumann/ecostruxure.git
